@@ -4,76 +4,63 @@ date: "2019-02-03T10:54:22.169Z"
 ---
 
 
-hello everybody, this is my first blog and I would like to try it with Gatsby so here it is.
-If you see mistakes on my blog please let me know, as my English is not as good as native ones ,although I am improving constantly, so let's go to our journey.
+Hello everybody, this is my first blog and I would like to try it with Gatsby so here it is.
+If you see mistakes on my blog please let me know, as my English is not as good as native ones ,although I am improving the English language constantly. Let's go!
 
 
-## preface
+## Preface
 
-I am a junior android developer. I have studied the Civil engineering at a small college and after goofing off 5 fucking years I finally found out that I had no interest in it. So I left it behind and decided to try my chance as a programmer, then I have started learning android programming and completed my internship at a company that its main business is providing content for Kids and teens.
-After 5 months they suggested a permanent contract to me and I started my professional career as an android developer.
+Currently I am a junior android developer, but I have studied a Civil Engineering BSc at a small college as I believe it was just goofing off 5 fucking years and finally I found out I wasn't into it. Therefore, I left it behind to cut my losses and open new doors as a programmer instead of being a civil engineer. I have tried to learn android programming at a company that its main business is providing clean and safe Internet content for Kids and teens.
+After 5 months' working as an internship I was suggested a permanent contract which was the beginning journy of my professional career as an android developer. I should confess I was speechless and you coulda knocked me down with a feather.
 
 
 ## Beginning of the story
 
-After working a year and a half I have been assigned a project that I shoulda written in React Native from scratch. I was so excited cuz I've had a chance to learn and experience many new materials and it was very exciting to code once and see the result both in android and ios simultaneously.
+After working about a year and a half I have been assigned a project that I shoulda written in React Native from scratch. I was so excited cuz I've had a chance to learn and experience many new materials which was appealing to code once and see the result both in android and ios simultaneously.
 
-After some months working on the project I made up my mind to learn Swift and native ios so that I can get better understanding of what I am doing on the ios side and if needed create native modules for the project.
+After couple months' working on the project I made up my mind to learn Swift and native ios, so that to be able to get better understanding of what I am doing on the ios side and if it is needed, create native modules for the project.
 
-As most of you know learning ios is an expensive stuff. you must have a MacBook or IMac and an Iphone for testing. actually ios simulator covers most of your requirements
- and you can use it instead of Iphone but having a mac device is necessary cuz you need XCode for development and it's only available on Mac OS.
- 
- The currency value in Iran is very low. At the time that I'm writing this article one dollar is equivalent to about 110,000 Rials, so I couldn't afford a MacBook.
+As most of you know, learning ios is an expensive stuff. You must have a MacBook or iMac as well as an iphone for running and testing purposes. In fact, an ios simulator covers most of what you really need
+ and you can use it instead of iphone, though having a mac device is necessary cuz you need XCode to development which is available only on macOS. As to crashing Iran's Rial, each dollar comes to about 110,000 Rials and needless to say I cannot afford to buy a MacBook.
 
  ![Rial Value](rial-value.jpg)
 
- I borrowed the company's macBook and signed a 300,000,000 Rials promissory note that is equivalent to 1.5 years of my salary.
- I'd put it in my backpack and carried it with myself every time I'd went to work and came back.
- 
- It was a super high risk , I might had damage it or lose it by a rubber, so I'd been so nervous and afraid so much.
+ I had to borrowed the company's MacBook and in return I gave a 300,000,000 Rials promissory note which comes to around my 1.5 years income.
+ Every day and night I'd put it in my backpack and take home which is exhausting and risky. Furthermore, it is likly I get it stolen or other unforseen accidents.
 
  ## The Big Decision
  
- I have a high config PC.
- when the inflation rate in Iran was lower and the value of Rial was double of its current value I bought my PC. I decided to install Hackintosh on it.
+ I bought a high spec PC when the inflation rate in Iran was lower than now. To decrease the risk of lossing the Macbook based on aforementioned argumanets, I've searched on the Internet how can I install mcOS on a non-MacBook device like my pc,then I've found how it is possible to install Hackintosh which was a great solution.
  
- first I downloaded High Sierra installer in a persian website.
- I tried to boot it in my flash drive by [UniBeast](http://www.tonymacx86.com/resources/unibeast-8-3-2-high-sierra.383/)
+ Firstly, I've downloaded the High Sierra installer from a Persian website.
+ I've tried to boot it into a USB stick by [UniBeast](http://www.tonymacx86.com/resources/unibeast-8-3-2-high-sierra.383/)
  but I failed.
- I didn't know what was wrong with the downloaded file. I remembered one of my coworkers had a newer version (Mojave) so I get the Mojave installer from him and tried [Step By Step Process To Install Hackintosh macOS Mojave](http://techhowdy.com/process-to-install-hackintosh-macos-mojave/) but it didn't work for me.
+ Honestly, I didn't know what was wrong with the downloaded image. I knew that one of my colleagues had a newer version (Mojave) so I got the Mojave installer from him and tried again, [Step By Step Process To Install Hackintosh macOS Mojave](http://techhowdy.com/process-to-install-hackintosh-macos-mojave/) but it didn't work as previous time.
 
- I watched [This](https://www.youtube.com/watch?v=VdRSYogDygs) guide on Youtube and successfully installed Mac OS Mojave on my PC. I was very happy at first but I found out Nvidia doesn't support Mojave yet. The display resolution was very low andy none of browsers I Installed worked correctly. I was disappointed.
+ I watched [This](https://www.youtube.com/watch?v=VdRSYogDygs) guidance on the Youtube website, then I've installed it successfully onto my PC. I was over the moon at first but all of a sudden I found out Nvidia's driver doesn't support Mojave yet. The display resolution was very low and none of installed browsers worked correctly which was disappointing time.
 
- I had two choices: 
+ I've had two options: 
 
- 1. wait until Nvidia release the web driver for Mojave
- 2. downgrade to High Sierra version
+ 1. Wait until Nvidia release the driver for Mojave
+ 2. Downgrade to High Sierra version
    
-I chose the second.
+I went for the later which was logical.
 
-By my coworker's help I downloaded a correct High Sierra from [here](https://p30download.com/fa/entry/75015/).
+Thanks to my colleague advice I downloaded an authentic High Sierra image from [here](https://p30download.com/fa/entry/75015/).
 
 ![screenshot](screenshot.png)
 
-I tried some of youtubers' guide but I Couldn't succeed.
+I tried some of youtubers' guidance but there was no success.
 
-finally I found this [guide](https://hackintosher.com/guides/high-sierra-install-full-guide/) and follow it step by step and at last I installed High Sierra and its drivers successfully.
+Finally I've found this [article](https://hackintosher.com/guides/high-sierra-install-full-guide/) and followed the instructions step by step that led me to install a High Sierra OS with no problem and drivers as well.
 
-and this is the result of my two weeks try and error: 
+And this is the result of my fortnight's try and error to get what I'd been looking for: 
 
-![result](result.jpg)
+![The result](result.jpg)
 
-If you wanna try too, pay attention that the contents of EFI folder in boot loader is very important. If you set it up improperly your install process will fail. do it exactly like the guide said.
+If you wanna try it too, pay attention the contents of the EFI folder in boot loader which is paramount. If you set it up improperly, your installation process will fail. Carry it out exactly as I did.
 
-for intel systems if AppleCDA.kext or AppleHDA.kext sound driver doesn't work download VoodooHDA clover from this [direct link](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V12/files/2087523/VoodooHDA.2.9.0.Clover-V12.zip).
-install and restart your pc.
+For Intel CPU systems if AppleCDA.kext or AppleHDA.kext sound driver doesn't work, download VoodooHDA clover from the [direct link](https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V12/files/2087523/VoodooHDA.2.9.0.Clover-V12.zip).
+then install and restart your pc.
 
-Ok guys! have a good luck.
-
-
-
-
- 
- 
-
-
+OK guys! have a good luck.
